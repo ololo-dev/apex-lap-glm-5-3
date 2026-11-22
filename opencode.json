@@ -1,0 +1,4 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "cloudflare-workers-ai/@cf/zai-org/glm-5.3"
+}
